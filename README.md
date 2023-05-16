@@ -1,0 +1,1 @@
+Copies the selected conversation from chat.openai.com to the clipboard.
